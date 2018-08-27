@@ -1,0 +1,14 @@
+电流环周期   	            1166us
+速度换周期		
+位置环周期		2ms
+
+
+//中断说明
+Item		主优	抢优		说明
+
+USART2 RX  	0   	0    		
+CAN1 TX		1		0	
+CAN1 RX		1		1
+
+Tim2		2		1			2ms速度环
+AD-DMA		2		2			250us电流环

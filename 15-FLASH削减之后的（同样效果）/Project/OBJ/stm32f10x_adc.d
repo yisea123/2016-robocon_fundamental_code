@@ -1,0 +1,19 @@
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\src\stm32f10x_adc.c
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_adc.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\cmsis\stm32f10x.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\cmsis\core_cm3.h
+..\obj\stm32f10x_adc.o: D:\Keil MDK5.01\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\cmsis\system_stm32f10x.h
+..\obj\stm32f10x_adc.o: ..\..\User\INC\stm32f10x_conf.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_adc.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_can.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\cmsis\stm32f10x.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_dma.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_exti.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_flash.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_spi.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_tim.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\stm32f10x_usart.h
+..\obj\stm32f10x_adc.o: ..\..\Libraries\StdPeriph_Driver\inc\misc.h
